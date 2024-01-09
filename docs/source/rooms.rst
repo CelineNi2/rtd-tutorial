@@ -31,14 +31,3 @@ Room Entity
   @ManyToOne(optional = false)
   private BuildingEntity building;
 
-
-Room Controller
------------
-
-.. code-block:: java
-
-  private final RoomDao roomDao;
-  private final WindowDao windowDao;
-  private final HeaterDao heaterDao;
-  private final BuildingDao buildingDao;
-  private final SensorDao sensorDao;
