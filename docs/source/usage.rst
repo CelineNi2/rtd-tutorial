@@ -16,16 +16,16 @@ If you want to, you can also download the backend `here <http://github.com/erwin
 Installation
 ------------
 
-Start by cloning the current repository in your terminal
+Start by cloning the current repository in your terminal:
   git clone http://github.com/CelineNi2/Automacorp_frontend.git
 
-Then install the necessary dependencies
+Then install the necessary dependencies:
   npm install
 
-Finally, to compile and hot-reload for development, use
+Finally, to compile and hot-reload for development, use:
   npm run dev
 
-And to compile and minify for production, use
+And to compile and minify for production, use:
   npm run build
 
 
