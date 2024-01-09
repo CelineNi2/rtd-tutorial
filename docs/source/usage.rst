@@ -17,19 +17,15 @@ Installation
 ------------
 
 Start by cloning the current repository in your terminal
-.. code-block:: console
   git clone http://github.com/CelineNi2/Automacorp_frontend.git
 
 Then install the necessary dependencies
-.. code-block:: console
   npm install
 
 Finally, to compile and hot-reload for development, use
-.. code-block:: console
   npm run dev
 
 And to compile and minify for production, use
-.. code-block:: console
   npm run build
 
 
@@ -37,6 +33,5 @@ Additionnal information
 ----------------
 
 The logins to access the data and the H2 console (for example http://localhost:8080/console; this can be access only locally) are:
-
-.. Username: ``user`` ; Password: ``theSecurePassword`` -> Can access anything except the console and the path api/admin
-.. Username: ``Erwin`` ; Password: ``theSecurePassword`` -> Can access anything
+  Username: ``user`` ; Password: ``theSecurePassword`` -> Can access anything except the console and the path api/admin
+  Username: ``Erwin`` ; Password: ``theSecurePassword`` -> Can access anything
