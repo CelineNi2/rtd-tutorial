@@ -1,8 +1,13 @@
 version: "2"
 
 build:
-  os: "windows-11"
+  os: "ubuntu-22.04"
   tools:
-    Java: "17.0.8"
-    Node.js: "18.17.1"
-    Vite: "4.5.0"
+    python: "3.10"
+
+python:
+  install:
+    - requirements: docs/requirements.txt
+
+sphinx:
+  configuration: docs/source/conf.py
