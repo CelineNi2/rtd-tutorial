@@ -33,5 +33,9 @@ Additionnal information
 ----------------
 
 The logins to access the data and the H2 console (for example http://localhost:8080/console; this can be access only locally) are:
-  Username: ``user`` ; Password: ``theSecurePassword`` -> Can access anything except the console and the path api/admin
-  Username: ``Erwin`` ; Password: ``theSecurePassword`` -> Can access anything
+
+  Username: ``user`` ; Password: ``theSecurePassword`` 
+    -> Can access anything except the console and the path api/admin
+
+  Username: ``Erwin`` ; Password: ``theSecurePassword`` 
+    -> Can access anything
