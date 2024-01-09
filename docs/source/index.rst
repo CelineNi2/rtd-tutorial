@@ -7,7 +7,6 @@ It pulls data from the `Automacorp backend <https://automacorp-erwin-martin.clev
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-
 Contents
 --------
 
