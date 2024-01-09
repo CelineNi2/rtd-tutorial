@@ -15,7 +15,6 @@ If you want to, you can also download the backend `here <http://github.com/erwin
 
 Installation
 ------------
-
 Start by cloning the current repository in your terminal:
   git clone http://github.com/CelineNi2/Automacorp_frontend.git
 
@@ -31,11 +30,10 @@ And to compile and minify for production, use:
 
 Additionnal information
 ----------------
-
 The logins to access the data and the H2 console (for example http://localhost:8080/console; this can be access only locally) are:
 
 Username: ``user`` ; Password: ``theSecurePassword`` 
   -> Can access anything except the console and the path api/admin
 
-Username: ``Erwin`` ; Password: ``theSecurePassword`` 
-  -> Can access anything
+  Username: ``Erwin`` ; Password: ``theSecurePassword`` 
+    -> Can access anything
